@@ -71,5 +71,5 @@ tolerations: []
 affinity: {}
 
 persistenceVolume: 
-  storage: 1Gi 
+  storage: 2Gi 
   name: plone-pvc
